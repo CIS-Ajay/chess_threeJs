@@ -1,0 +1,11 @@
+Model Information:
+* title:	Black Rook
+* source:	https://sketchfab.com/3d-models/black-rook-68569f4c2e524fe585c541f0b50d2c44
+* author:	Mohammed.Adnan (https://sketchfab.com/Mohammed.Adnan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Black Rook" (https://sketchfab.com/3d-models/black-rook-68569f4c2e524fe585c541f0b50d2c44) by Mohammed.Adnan (https://sketchfab.com/Mohammed.Adnan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

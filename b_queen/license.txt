@@ -1,0 +1,11 @@
+Model Information:
+* title:	chess queen
+* source:	https://sketchfab.com/3d-models/chess-queen-742303785e0c4bf1a36ef57216f15790
+* author:	mastergames2435 (https://sketchfab.com/mastergames243534)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "chess queen" (https://sketchfab.com/3d-models/chess-queen-742303785e0c4bf1a36ef57216f15790) by mastergames2435 (https://sketchfab.com/mastergames243534) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
